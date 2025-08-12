@@ -9,7 +9,8 @@ systems, and networking.
 currently working on. Right now, the two major projects I have are the Google
 Summer of Code project
 [Port FreeBSD to QEMU microvm](https://wiki.freebsd.org/SummerOfCode2025Projects/PortFreeBSDToQEMUMicrovm),
-and a home network upgrade. I also currently maintain the Maryland Beta chapter
-[website](https://www.tbpmdbeta.org/) of [Tau Beta Pi](https://www.tbp.org/).
+and a home network upgrade. I also currently operate the Maryland Beta chapter
+[website](https://www.tbpmdbeta.org/) of [Tau Beta Pi](https://www.tbp.org/)
+as the organization's webmaster.
 
 Feel free to contact me by email at <wgeckle80@gmail.com>!
